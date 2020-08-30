@@ -6,6 +6,13 @@
     <UseWindowsForms>true</UseWindowsForms>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageIcon>Krypton.ico</PackageIcon>
+    <Authors>ComponentFactory</Authors>
+    <Company>ComponentFactory</Company>
+    <Product>Krypton Docking</Product>
+    <Copyright />
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/ComponentFactory/Krypton</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
@@ -20,6 +27,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="..\..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
     <None Include="Krypton.ico">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
