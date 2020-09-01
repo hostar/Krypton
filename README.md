@@ -1,3 +1,4 @@
+
 # Krypton Suite of .NET WinForms Controls
 The Krypton Suite of .NET WinForms controls are now freely available for use in personal or commerical projects.
 
@@ -20,31 +21,31 @@ I developed and sold them from my company Component Factory from 2006 until 2014
 # Source #
 **Source** directory contains the full source code that you can view, modify and directly compile. The **Krypton Components** sub-directory contains all the actual controls, the other directories are for the myriad example projects.
 
-# Krypton Toolkit
+# Krypton Toolkit ![Nuget](https://img.shields.io/nuget/v/ComponentFactory.Krypton.Toolkit)
 49 basic controls with full and consistent theming.
 
 ![](/Images/home_toolkit1.gif?raw=true)  ![](/Images/home_toolkit2.gif?raw=true)  ![](/Images/home_toolkit3.gif?raw=true)
 ![](/Images/home_toolkit4.gif?raw=true)  ![](/Images/home_toolkit5.gif?raw=true)  ![](/Images/home_toolkit6.gif?raw=true)
 
-# Krypton Ribbon
+# Krypton Ribbon ![Nuget](https://img.shields.io/nuget/v/ComponentFactory.Krypton.Ribbon)
 Office style ribbon control.
 
 ![](/Images/p_ribbon1.gif?raw=true)  ![](/Images/p_ribbon2.gif?raw=true) 
 ![](/Images/p_ribbon3.gif?raw=true)  ![](/Images/p_ribbon4.gif?raw=true)
 
 
-# Krypton Docking
+# Krypton Docking ![Nuget](https://img.shields.io/nuget/v/ComponentFactory.Krypton.Docking)
 Drag and drop just like Visual Studio.
 
 ![](/Images/KDocking.gif?raw=true)
 
-# Krypton Navigator
+# Krypton Navigator ![Nuget](https://img.shields.io/nuget/v/ComponentFactory.Krypton.Navigator)
 A TabControl but so much better.
 
 ![](/Images/home_navigator1.gif?raw=true)  ![](/Images/home_navigator2.gif?raw=true)
 ![](/Images/home_navigator3.gif?raw=true)  ![](/Images/home_navigator4.gif?raw=true)
 
-# Krypton Workspace
+# Krypton Workspace ![Nuget](https://img.shields.io/nuget/v/ComponentFactory.Krypton.Workspace)
 Organize the client area of your application.
 
 ![](/Images/KWSContext2.gif?raw=true)
